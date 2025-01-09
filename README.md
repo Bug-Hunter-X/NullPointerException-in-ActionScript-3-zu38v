@@ -1,0 +1,1 @@
+This repository contains a simple ActionScript 3 example that demonstrates a common error: a NullPointerException.  The `bug.as` file shows the code that causes the error, while `bugSolution.as` provides a corrected version that avoids the exception. The error occurs when trying to access a property of an object that is null.
